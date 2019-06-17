@@ -35,6 +35,7 @@ namespace cookieApi
                         "https://career12preview.sapsf.eu",
                         "https://career12.sapsf.eu",
                         "http://localhost",
+                        "http://localhost:3333",
                         "https://localhost",
                         "https://www.dm-jobs.com/",
                         "https://career5.successfactors.eu",
