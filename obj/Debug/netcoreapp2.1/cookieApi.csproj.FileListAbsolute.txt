@@ -1,0 +1,14 @@
+/Users/wklinker/repos/csb/cookieApi/bin/Debug/netcoreapp2.1/cookieApi.deps.json
+/Users/wklinker/repos/csb/cookieApi/bin/Debug/netcoreapp2.1/cookieApi.runtimeconfig.json
+/Users/wklinker/repos/csb/cookieApi/bin/Debug/netcoreapp2.1/cookieApi.runtimeconfig.dev.json
+/Users/wklinker/repos/csb/cookieApi/bin/Debug/netcoreapp2.1/cookieApi.dll
+/Users/wklinker/repos/csb/cookieApi/bin/Debug/netcoreapp2.1/cookieApi.pdb
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.csprojAssemblyReference.cache
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.csproj.CoreCompileInputs.cache
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.RazorAssemblyInfo.cache
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.RazorAssemblyInfo.cs
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.AssemblyInfoInputs.cache
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.AssemblyInfo.cs
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.RazorTargetAssemblyInfo.cache
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.dll
+/Users/wklinker/repos/csb/cookieApi/obj/Debug/netcoreapp2.1/cookieApi.pdb
