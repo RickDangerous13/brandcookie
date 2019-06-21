@@ -37,7 +37,7 @@ namespace cookieApi
                         "http://localhost",
                         "http://localhost:3333",
                         "https://localhost",
-                        "https://www.dm-jobs.com/",
+                        "https://www.dm-jobs.com",
                         "https://career5.successfactors.eu",
                         "https://career12.successfactors.eu"
                         )
